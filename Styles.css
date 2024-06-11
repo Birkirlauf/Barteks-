@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f7f7;
+}
+
+header {
+    background: url('https://st4.depositphotos.com/4509995/29809/i/450/depositphotos_298092392-stock-photo-crazy-cheerful-young-man-in.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+main h2 {
+    color: #007bff;
+}
+
+.photo-container img, .uniform-img {
+    border: 2px solid #007bff;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    background: url('https://via.placeholder.com/1200x200') no-repeat center center;
+    background-size: cover;
+}
